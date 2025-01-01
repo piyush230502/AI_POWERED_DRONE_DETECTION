@@ -1,0 +1,12 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pillow>=9.2.0
+torch>=2.0.0
+torchvision>=0.15.0
+onnxruntime
+onnxruntime-gpu
+python-multipart
+ultralytics
+flask
+requests
+imageio[avif]
